@@ -1,5 +1,4 @@
+/api
 backend-go
-*.exe
-tmp/
-coverage.out
-uploads/
+*.log
+.DS_Store
